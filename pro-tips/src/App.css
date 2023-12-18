@@ -6,6 +6,10 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
 
+h1 {
+  text-align: center;
+}
+
 nav {
   display: flex;
   justify-content: space-between;
